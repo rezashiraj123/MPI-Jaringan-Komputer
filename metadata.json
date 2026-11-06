@@ -1,0 +1,6 @@
+{
+  "name": "Konektivitas Jaringan & Routing — TIK Kelas 7",
+  "description": "Media Pembelajaran Interaktif (MPI) Informatika/TIK Kelas 7 SMP tentang Internet, Jaringan Lokal (LAN), dan Cara Kerja Pengiriman Data (Routing).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
